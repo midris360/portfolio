@@ -28,30 +28,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'https://i.ibb.co/rwZBkPz/Stop-The-Cap.png',
-    title: '',
-    info: '',
+    img: 'https://i.ibb.co/hZHrCpX/Stop-The-Cap.jpg',
+    title: 'Stop The Cap Vinyls',
+    info: 'A music app that lets users save/collect Albums/Vinyl data(Ruby on Rails + React app)',
     info2: '',
-    url: '',
+    url: 'https://app.netlify.com/sites/jovial-shaw-11ec5e',
     repo: 'https://github.com/midris360/stopthecap-frontend', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 ];
 
@@ -59,7 +41,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'midris360@gmail.com',
 };
 
 // FOOTER DATA
@@ -68,27 +50,27 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/craftgfx',
     },
     {
       id: nanoid(),
       name: 'codepen',
-      url: '',
+      url: 'https://codepen.io/midris360',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/mohammedkidris/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/midris360',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
