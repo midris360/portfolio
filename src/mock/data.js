@@ -37,21 +37,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'https://camo.githubusercontent.com/6cc7fb6da78d9b8305f9d07c7dcccc9064a5d09df354c46ade24e243b2f91c4e/68747470733a2f2f692e6962622e636f2f466e645a6d6a422f53637265656e73686f742d312e706e67',
-    title: 'AudioLike',
-    info: 'A music app that allows users to create account and then be able to create a list of artists/songs and add to a favorites playlist that the users like.',
-    info2: '',
-    url: 'https://midris-project2.herokuapp.com/',
-    repo: 'https://github.com/midris360/project2', // if no repo, the button will not show up
+    img: 'https://serving.photos.photobox.com/26134675acb956e93796b180e74c93d20f647462a0eeb9e857202b70b6102b3c5df80358.jpg',
+    title: 'NPM Start Career',
+    info: 'An app to help keep organized in our dev job search.',
+    info2: 'This project was a collaborative MERN stack project with three other software engineers.',
+    url: 'https://npmstartcareer.netlify.app/',
+    repo: 'https://github.com/KyleLynnRas/proj3-frontend', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'https://i.ibb.co/hZHrCpX/Stop-The-Cap.jpg',
-    title: 'Stop The Cap Vinyls',
-    info: 'A music app that lets users save/collect Albums/Vinyl data(Ruby on Rails + React app)',
+    img: 'https://serving.photos.photobox.com/769273065c07932404286d6f8f0ea5d12c9ce2491fde5b833842f771af6ce517c9a2cce7.jpg',
+    title: 'AudioDB',
+    info: 'An audio web app that retrieves data about different musicians from different genres using the Audiodb API.',
     info2: '',
-    url: 'https://app.netlify.com/sites/jovial-shaw-11ec5e',
-    repo: 'https://github.com/midris360/stopthecap-frontend', // if no repo, the button will not show up
+    url: 'https://midris360.github.io/',
+    repo: 'https://github.com/midris360/midris360.github.io', // if no repo, the button will not show up
   },
 ];
 
