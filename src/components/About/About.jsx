@@ -43,7 +43,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Languages: JavaScript, HTML, CSS, Python <br /> Frameworks & Platforms: Windows OS, Ubuntu-Linux, Mac OSX, Express, GitHub, MongoDB, Mongoose, Node.js, Bootstrap, Postman <br /> Software: Git, Slack, Trello, Discord, PuTTY, VS Code, Git Bash'}
+                    'Languages: JavaScript, HTML, CSS, Python; Frameworks & Platforms: Windows OS, Ubuntu-Linux, Mac OSX, Express, GitHub, MongoDB, Mongoose, Node.js, Bootstrap, Postman; Software: Git, Slack, Trello, Discord, PuTTY, VS Code, Git Bash'}
                 </p>
                 {/* <p className="about-wrapper__info-text">
                   {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
