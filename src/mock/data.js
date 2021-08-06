@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'https://i.ibb.co/hZHrCpX/Stop-The-Cap.jpg',
+    img: 'StopTheCap.png',
     title: 'Stop The Cap Vinyls',
     info: 'A music app that lets users save/collect Albums/Vinyl data(Ruby on Rails + React app)',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'https://serving.photos.photobox.com/26134675acb956e93796b180e74c93d20f647462a0eeb9e857202b70b6102b3c5df80358.jpg',
+    img: 'npm.png',
     title: 'NPM Start Career',
     info: 'An app to help keep organized in our dev job search.',
     info2: 'This project was a collaborative MERN stack project with three other software engineers.',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'https://serving.photos.photobox.com/769273065c07932404286d6f8f0ea5d12c9ce2491fde5b833842f771af6ce517c9a2cce7.jpg',
+    img: 'Audiodb.png',
     title: 'AudioDB',
     info: 'An audio web app that retrieves data about different musicians from different genres using the Audiodb API.',
     info2: '',
