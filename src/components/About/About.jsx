@@ -39,12 +39,12 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Software Engineer with a B.S. in Computer Science and certificate in Software Engineering. My area of expertise is HTML/CSS, JavaScript, and its libraries such as Bootstrap, React.js, Express.js. Skilled with software and hardware systems such as server/network testing and repair.'}
+                    'Full Stack Developer with a B.S. in Computer Science and certificate in Software Engineering. My area of expertise is HTML/CSS, JavaScript, and its libraries such as Bootstrap, React.js, Express.js. Skilled with software and hardware systems such as server/network testing and repair.'}
                 </p>
-                {/* <p className="about-wrapper__info-text">
+                <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
-                </p> */}
+                    'Languages: JavaScript, HTML, CSS, Python <br> Frameworks & Platforms: Windows OS, Ubuntu/Linux, Mac OSX, Express, GitHub, MongoDB, Mongoose, Node.js, Bootstrap, Postman <br> Software: Git, Slack, Trello, Discord, PuTTY, VS Code, Git Bash'}
+                </p>
                 {/* <p className="about-wrapper__info-text">
                   {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
                 </p> */}

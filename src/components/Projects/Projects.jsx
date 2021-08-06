@@ -45,7 +45,7 @@ const Projects = () => {
                       <div>
                         <p>
                           {info ||
-                            'I am Mohammed Idris, Im a Full Stack Engineer from New Jersey.'}
+                            'I am Mohammed Idris, Im a Full Stack Developer from New Jersey.'}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
