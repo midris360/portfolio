@@ -35,6 +35,24 @@ export const projectsData = [
     url: 'https://app.netlify.com/sites/jovial-shaw-11ec5e',
     repo: 'https://github.com/midris360/stopthecap-frontend', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'https://camo.githubusercontent.com/6cc7fb6da78d9b8305f9d07c7dcccc9064a5d09df354c46ade24e243b2f91c4e/68747470733a2f2f692e6962622e636f2f466e645a6d6a422f53637265656e73686f742d312e706e67',
+    title: 'AudioLike',
+    info: 'A music app that allows users to create account and then be able to create a list of artists/songs and add to a favorites playlist that the users like.',
+    info2: '',
+    url: 'https://midris-project2.herokuapp.com/',
+    repo: 'https://github.com/midris360/project2', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'https://i.ibb.co/hZHrCpX/Stop-The-Cap.jpg',
+    title: 'Stop The Cap Vinyls',
+    info: 'A music app that lets users save/collect Albums/Vinyl data(Ruby on Rails + React app)',
+    info2: '',
+    url: 'https://app.netlify.com/sites/jovial-shaw-11ec5e',
+    repo: 'https://github.com/midris360/stopthecap-frontend', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
